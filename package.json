@@ -2,7 +2,7 @@
   "name": "himalaya",
   "description": "HTML to JSON parser",
   "version": "1.1.0",
-  "author": "Chris Andrejewski <christopher.andrejewski@gmail.com>",
+  "author": "Dhia Eddine Saidi <dhiasaidi.ensit@gmail.com>",
   "ava": {
     "require": [
       "babel-register"
@@ -21,9 +21,6 @@
         ]
       }
     }
-  },
-  "bugs": {
-    "url": "https://github.com/andrejewski/himalaya/issues"
   },
   "devDependencies": {
     "ava": "^0.25.0",
@@ -48,7 +45,7 @@
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
   },
-  "homepage": "https://github.com/andrejewski/himalaya",
+  "homepage": "https://github.com/DhiaEddineSaidi/himalaya",
   "keywords": [
     "ast",
     "html",
@@ -79,7 +76,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrejewski/himalaya.git"
+    "url": "https://github.com/DhiaEddineSaidi/himalaya.git"
   },
   "scripts": {
     "build": "gulp build",
